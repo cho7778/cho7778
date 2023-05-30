@@ -4,7 +4,7 @@
 ### Always Welcome New Challenges And Somthing To Dive In
 ```
 - 새로운 것에 도전하고 탐구하는 것을 좋아합니다.
-- 함께 공부하고 성장하는 것을 좋아합니다
+- 함께 공부하고 성장하는 것을 좋아합니다.
 - 사소한 것이라도 꾸준하게 하려고 노력합니다.
 ```
 
@@ -34,7 +34,7 @@
   `Tools`</br>   
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-    <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
+  <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
   <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/teams-6264A7?style=for-the-badge&logo=teams&logoColor=white">
   <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
