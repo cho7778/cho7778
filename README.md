@@ -1,6 +1,12 @@
 # SOFTWARE-ENGINEER(FRONT-END) 강은초입니다👋
 
+
 ### Always Welcome New Challenges And Somthing To Dive In
+```
+- 새로운 것에 도전하고 탐구하는 것을 좋아합니다.
+- 함께 공부하고 성장하는 것을 좋아합니다
+- 사소한 것이라도 꾸준하게 하려고 노력합니다.
+```
 
 <br>
 
